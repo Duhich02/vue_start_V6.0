@@ -8,7 +8,7 @@
 import vCatalog from './v-catalog.vue'
 import vCart from './v-cart.vue'
 import {mapGetters} from "vuex";
-// arararararar
+
 export default {
   name: 'v-main-wrapper',
   components: {vCatalog, vCart},
